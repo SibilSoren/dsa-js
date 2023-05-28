@@ -10,3 +10,5 @@ function fiboSeries(n) {
 }
 
 console.log(fiboSeries(8));
+
+//Time complexity -> O(n)
