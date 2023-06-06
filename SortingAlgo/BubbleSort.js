@@ -19,7 +19,6 @@ function bubbleSort(arr, type) {
   }
   return arr;
 }
-
 let arr = [3, 2, -1, 0, -4, 33, -20, 45];
 
 console.log(bubbleSort(arr, "d"));
