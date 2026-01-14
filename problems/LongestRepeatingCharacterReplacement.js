@@ -23,5 +23,5 @@ const characterReplacement = function (s, k) {
   return maxLength;
 };
 
-let s = "ABAB";
+let s = "ABABCD";
 console.log(characterReplacement(s));
