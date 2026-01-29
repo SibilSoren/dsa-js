@@ -18,5 +18,5 @@ const dailyTemperatures = function (temperatures) {
   return result;
 };
 
-let temperatures = [73, 74, 75, 71, 69, 72, 76, 73];
+let temperatures = [73, 74, 75, 71, 69, 72, 76, 73, 78, 77, 79];
 console.log(dailyTemperatures(temperatures));
