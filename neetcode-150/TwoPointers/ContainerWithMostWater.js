@@ -15,7 +15,7 @@ const maxArea = function (height) {
   return maxArea;
 };
 
-// let height = [1, 8, 6, 2, 5, 4, 8, 3, 7];
-let height = [1, 1];
+let height = [1, 8, 6, 2, 5, 4, 8, 3, 7];
+// let height = [1, 1];
 
 console.log(maxArea(height));
