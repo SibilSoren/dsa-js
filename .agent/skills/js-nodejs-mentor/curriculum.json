@@ -1,0 +1,325 @@
+{
+    "curriculum": {
+        "javascriptFundamentals": {
+            "name": "JavaScript Fundamentals",
+            "topics": {
+                "typesAndCoercion": {
+                    "name": "Types & Coercion",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "scopeAndClosures": {
+                    "name": "Scope & Closures",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "thisAndBinding": {
+                    "name": "this & Binding",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "prototypesAndInheritance": {
+                    "name": "Prototypes & Inheritance",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "asyncPatterns": {
+                    "name": "Async Patterns",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "functions": {
+                    "name": "Functions Deep Dive",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "objectsAndReferences": {
+                    "name": "Objects & References",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "arraysAndIteration": {
+                    "name": "Arrays & Iteration",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                }
+            }
+        },
+        "advancedJavaScript": {
+            "name": "Advanced JavaScript",
+            "topics": {
+                "eventLoop": {
+                    "name": "Event Loop & Concurrency",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "memoryManagement": {
+                    "name": "Memory Management",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "modules": {
+                    "name": "Modules",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "symbolsAndIterators": {
+                    "name": "Symbols & Iterators",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "proxiesAndReflection": {
+                    "name": "Proxies & Reflection",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "errorHandling": {
+                    "name": "Error Handling",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "performanceOptimization": {
+                    "name": "Performance Optimization",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "functionalProgramming": {
+                    "name": "Functional Programming",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                }
+            }
+        },
+        "nodejsCore": {
+            "name": "Node.js Core",
+            "topics": {
+                "eventDrivenArchitecture": {
+                    "name": "Event-Driven Architecture",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "streams": {
+                    "name": "Streams",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "fileSystem": {
+                    "name": "File System",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "processAndChildProcesses": {
+                    "name": "Process & Child Processes",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "buffersAndBinaryData": {
+                    "name": "Buffers & Binary Data",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "timersAndScheduling": {
+                    "name": "Timers & Scheduling",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "httpAndHttps": {
+                    "name": "HTTP/HTTPS",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "networking": {
+                    "name": "Networking",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                }
+            }
+        },
+        "nodejsEcosystem": {
+            "name": "Node.js Ecosystem",
+            "topics": {
+                "packageManagement": {
+                    "name": "Package Management",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "moduleSystems": {
+                    "name": "Module Systems",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "environmentAndConfig": {
+                    "name": "Environment & Configuration",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "debuggingAndProfiling": {
+                    "name": "Debugging & Profiling",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "testing": {
+                    "name": "Testing",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "errorHandlingAndLogging": {
+                    "name": "Error Handling & Logging",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "security": {
+                    "name": "Security",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "buildTools": {
+                    "name": "Build Tools & Bundlers",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                }
+            }
+        },
+        "modernJavaScript": {
+            "name": "Modern JavaScript (ES6+)",
+            "topics": {
+                "destructuringAndSpread": {
+                    "name": "Destructuring & Spread",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "templateLiterals": {
+                    "name": "Template Literals",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "arrowFunctions": {
+                    "name": "Arrow Functions",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "defaultAndRestParams": {
+                    "name": "Default & Rest Parameters",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "classesAndInheritance": {
+                    "name": "Classes & Inheritance",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "mapSetWeakMapWeakSet": {
+                    "name": "Map, Set, WeakMap, WeakSet",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "promisesAndAsync": {
+                    "name": "Promises & Async/Await",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "moduleImportExport": {
+                    "name": "Module Import/Export",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                },
+                "optionalChainingNullish": {
+                    "name": "Optional Chaining & Nullish Coalescing",
+                    "completed": false,
+                    "dateCompleted": null,
+                    "difficulty": null,
+                    "notes": ""
+                }
+            }
+        }
+    },
+    "metadata": {
+        "lastUpdated": "2026-02-05",
+        "totalTopics": 41,
+        "completedTopics": 0,
+        "currentStreak": 0,
+        "longestStreak": 0,
+        "totalLearningDays": 0
+    },
+    "learningHistory": []
+}
