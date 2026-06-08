@@ -1,6 +1,6 @@
 # DSA Interview Prep 🎯
 
-Personal repository for Data Structures and Algorithms practice, focused on big-tech interview preparation.
+Personal repository for Data Structures and Algorithms practice, focused on big-tech interview preparation 123.
 
 ## Structure
 
